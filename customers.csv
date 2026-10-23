@@ -1,0 +1,6 @@
+customer_id,name,email
+1,Rahul,RAHUL@gmail.com
+2,Anita,ANITA@gmail.com
+3,Rohit,ROHIT@gmail.com
+2,Anita,ANITA@gmail.com
+,Missing ID,missing@example.com
